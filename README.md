@@ -1,2 +1,2 @@
 # Hotel_Booking_Analysis
-Analysis of types hotel bookings, their prices and cancellations
+Analysis of types of hotels and their bookings, their prices and cancellations
